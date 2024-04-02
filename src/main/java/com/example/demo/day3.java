@@ -11,6 +11,6 @@ public class day3 {
 	@GetMapping("/shri")
 	public String Name()
 	{
-		return "hi shri111 ";
+		return "hi shrivignesh ";
 	}
 }
