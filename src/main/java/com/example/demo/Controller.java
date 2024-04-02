@@ -20,7 +20,7 @@ public class Controller {
 	@GetMapping("/add")
 	public int add()
 	{
-		int a=5;
+		int a=51;
 		int b=10;
 //		int c=a+b;
 		return a+b;
