@@ -10,7 +10,7 @@ public class Controller {
 	@GetMapping("/")
 	public String hello()
 	{
-		return "hi shri hi how are u hhhhh";
+		return "hi shri hi how are u da";
 	}
 	@GetMapping("/home")
 	public String Homepage()
@@ -20,7 +20,7 @@ public class Controller {
 	@GetMapping("/add")
 	public int add()
 	{
-		int a=5;
+		int a=115;
 		int b=10;
 //		int c=a+b;
 		return a+b;
