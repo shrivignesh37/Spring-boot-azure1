@@ -17,7 +17,7 @@ public class Controller {
 	{
 		return "Homepage";
 	}
-	@GetMapping("/add")
+	@GetMapping("/adding")
 	public int add()
 	{
 		int a=51;
